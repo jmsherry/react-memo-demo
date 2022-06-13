@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/react-gh-pages/static/css/main.9a14f26f.css",
-    "main.js": "/react-gh-pages/static/js/main.abb1b3f4.js",
-    "static/js/787.e82e8434.chunk.js": "/react-gh-pages/static/js/787.e82e8434.chunk.js",
-    "index.html": "/react-gh-pages/index.html",
-    "main.9a14f26f.css.map": "/react-gh-pages/static/css/main.9a14f26f.css.map",
-    "main.abb1b3f4.js.map": "/react-gh-pages/static/js/main.abb1b3f4.js.map",
-    "787.e82e8434.chunk.js.map": "/react-gh-pages/static/js/787.e82e8434.chunk.js.map"
+    "main.css": "/react-memo-demo/static/css/main.9a14f26f.css",
+    "main.js": "/react-memo-demo/static/js/main.9381f167.js",
+    "static/js/787.e82e8434.chunk.js": "/react-memo-demo/static/js/787.e82e8434.chunk.js",
+    "index.html": "/react-memo-demo/index.html",
+    "main.9a14f26f.css.map": "/react-memo-demo/static/css/main.9a14f26f.css.map",
+    "main.9381f167.js.map": "/react-memo-demo/static/js/main.9381f167.js.map",
+    "787.e82e8434.chunk.js.map": "/react-memo-demo/static/js/787.e82e8434.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.9a14f26f.css",
-    "static/js/main.abb1b3f4.js"
+    "static/js/main.9381f167.js"
   ]
 }
